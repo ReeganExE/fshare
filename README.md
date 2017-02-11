@@ -5,3 +5,5 @@ You have a fshare VIP account? You want to get direct links of huge URLs, but yo
 EZ, this script will help you, on your browser.
 
 _Contact me to see how to use the script. Find me on Google!_ :relaxed::relaxed:
+
+![Direct links Fshare](fshare-direct-links.JPG)
